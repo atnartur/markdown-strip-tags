@@ -7,7 +7,7 @@ var symbols = ["_", "*"];
 
 module.exports = function (text){
 	symbols.forEach(function(symbol){
-		text = text.replace(new RegExp(symbol, 'g'), "\\" + symbol);
+		text = text.replace(new RegExp('[#'+symbol+']', 'g'), "\\" + symbol);
 	});
 
 	return text;
