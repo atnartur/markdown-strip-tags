@@ -1,0 +1,24 @@
+{
+  "name": "markdown-strip-tags",
+  "version": "1.0.0",
+  "description": "Markdown strip tags module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/atnartur/markdown-strip-tags.git"
+  },
+  "keywords": [
+    "markdown",
+    "strip",
+    "tags"
+  ],
+  "author": "atnartur <i@atnartur.ru>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/atnartur/markdown-strip-tags/issues"
+  },
+  "homepage": "https://github.com/atnartur/markdown-strip-tags#readme"
+}
