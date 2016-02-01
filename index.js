@@ -3,11 +3,11 @@
  * Developer: Artur Atnagulov (atnartur)
 */
 
-var symbols = ["_", "*", "[", "]", "(", ")"];
+var symbols = ["_", "*"];
 
 module.exports = function (text){
 	symbols.forEach(function(symbol){
-		text = text.replace(symbol, "\\" + symbol);
+		text = text.replace(new Regexp(symbol, 'g'), "\\" + symbol);
 	});
 
 	return text;
