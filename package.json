@@ -1,6 +1,6 @@
 {
   "name": "markdown-strip-tags",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Markdown strip tags module",
   "main": "markdown-strip-tags.js",
   "scripts": {
