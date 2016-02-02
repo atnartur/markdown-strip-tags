@@ -16,7 +16,7 @@
     "tags"
   ],
   "author": "atnartur <i@atnartur.ru>",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/atnartur/markdown-strip-tags/issues"
   },
