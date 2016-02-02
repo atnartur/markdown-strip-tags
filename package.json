@@ -2,7 +2,7 @@
   "name": "markdown-strip-tags",
   "version": "1.0.0",
   "description": "Markdown strip tags module",
-  "main": "index.js",
+  "main": "markdown-strip-tags.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
